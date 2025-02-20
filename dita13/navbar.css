@@ -1,0 +1,27 @@
+body{
+    margin:0px;
+    padding:0px;
+}
+nav{
+    background-color: rgb(27, 25, 25);
+    color:white;
+    margin-top :-17px;
+}
+nav ul{
+    list-style-type:none;
+}
+nav ul li{
+    display:inline-block;
+}
+nav ul li a{
+    color:white;
+    font-size:20px;
+    text-decoration: none;
+    display:block;
+    padding:20px;
+}
+nav ul li a:hover{
+    background: rgb(117, 122, 122);
+    font-size:25px;
+    text-decoration: underline;
+}

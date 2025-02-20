@@ -1,0 +1,104 @@
+#divk{
+    height:700px;
+    width:600px;
+   border: 1px dotted aqua; 
+}
+#h1{
+    font-size: 40px;
+    
+}
+span{
+    font-size:30px;
+    color:rgb(0, 217, 255);
+    
+}
+#h2{
+    color:solid black;
+   
+}
+#p1{
+    letter-spacing: 2px;
+    font-variant:small-caps;
+    
+}
+#input1{
+    border:1px solid black;
+    width:550px;
+}
+#input2{
+    border:1px solid black;
+    width:550px;
+}
+#input3{
+    border:1px solid black;
+    width:150px;
+    
+}
+#input4{
+    border:1px solid black;
+    width:150px;
+   
+   
+}
+#label2{
+    float:left;
+    margin: 10px;
+    margin-left: 20px;
+}
+#label3{
+    float:left;
+    margin:10px;
+    margin-left:20px;
+}
+#label4{
+    float:left;
+    margin:10px;
+    margin-left: 20px;
+}
+#options1{
+    width:250px;
+}
+#options2{
+    width:250px;
+}
+#options3{
+    width:70px;
+}
+#options4{
+    width:70px;
+}
+#options5{
+    width:250px;
+}
+#options6{
+    width:250px;
+}
+#options7{
+    width:70px;
+}
+#options8{
+    width:70px;
+}
+#divhh{
+    float:left;
+   
+}
+#divh{
+    float:left;
+    margin-left: 100px;
+}
+
+#h5{
+    border:4px pink;
+    font-size: 60px;
+
+}
+#button{
+    
+    width:550px;
+    height:50px;
+    background-color:rgb(223, 12, 110)
+}
+#div1{
+    border:1px dotted aqua;
+}

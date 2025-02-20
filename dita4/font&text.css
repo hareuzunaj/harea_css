@@ -1,0 +1,78 @@
+/*Font style and family*/
+#p1{
+    font-family:"Note Serif Telugu ",serif;
+    /*font-style:normal*/
+    /*font-style:oblique*/
+    font-style:italic
+}
+
+/*Font variant*/
+#p2{
+    font-variant:small-caps;
+    /*font-variant:normal;*/
+}
+#p3{
+    font-weight:bold;
+    /*font-weight:900;*/
+    /*  font-weight:bolder*/
+}
+
+/*Font-size*/
+#p4{
+    font-size:4vw;
+    /*font-size:50px;*/
+    /*font-size:160%;*/
+    /*font-size:large;*/
+    /*  font-size:1cm;*/
+}
+
+#p5{
+    font:bold italic small-caps 10vw georgian;
+    width:150px;
+
+}
+
+
+#p6{
+  font-family: "Bodoni Moda", serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style:normal;
+  font-variation-settings: 
+  "MORF" 0;
+}
+#p7{
+    font-family:"Dancing Script",cursive;
+    text-indent:20px;
+    text-align: justify;
+    height:250px;
+    width: 300px;
+}
+/*text color and direction*/
+#p8{
+    color: aquamarine;
+    direction: rtl;
+}
+/*Text indent*/
+#p9{
+    text-indent: 20px;
+    /*text-indent: 25px;*/
+}
+/*Text spacing*/
+#p10{
+letter-spacing: 5px;
+word-spacing: 15px;
+/*wide-spacing:pre*/
+}
+#p11{
+text-decoration: underline;
+
+}
+#p12{
+    text-transform: capitalize;
+
+}
+#p13{
+    font-size: 70px;
+    text-shadow: 5px 4px 9px red;
+}

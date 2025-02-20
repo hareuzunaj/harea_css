@@ -1,0 +1,76 @@
+#div1{
+    width:100px;
+    height:100px;
+    background: rgb(128, 6, 6);
+    color:white;
+    transition:1.2s;
+}
+#div1:hover{
+    width:300px;
+    height: 300px;
+    background: rgb(41, 26, 128);
+    color:red;
+    padding:50px;
+}
+#div2{
+    width: 100px ;
+    height: 100px ;
+    background:  rgb(128, 6, 6);
+    /*transition:2s;*/
+    transition: 10s, width 2s, height 3s, background 1s;
+   
+    color:white;
+    transition-delay:1s;
+}
+#div2:hover{
+    width:300px;
+    height: 300px;
+    background: rgb(41, 26, 128);
+    color:red;
+    padding:50px;
+}
+#div3{
+    width:100px;
+    height:100px;
+    background: rgb(128, 6, 6);
+  
+    transition:1s;
+    color:white;
+    transition-timing-function: ease-in;
+}
+#div3:hover{
+    width:2200px;
+    height: 300px;
+    background: rgb(41, 26, 128);
+    color:red;
+    padding:50px;
+}
+#div4{
+    width:100px;
+    height:100px;
+    background: rgb(128, 6, 6);
+    color:white;
+    transition-property: width,height, color;
+    transition-duration: 4s;
+    transition-timing-function: ease;
+    transition-delay: 1s;
+}
+#div4:hover{
+    width:2200px;
+    height: 300px;
+    background: rgb(41, 26, 128);
+    color:red;
+}
+#div5{
+    width:100px;
+    height:100px;
+    color:white;
+    background: rgb(128, 6, 6);
+    transition: width, 4s linear 1s;
+}
+#div5:hover{
+    width:300px;
+    height: 300px;
+    background: rgb(41, 26, 128);
+    color:red;
+}

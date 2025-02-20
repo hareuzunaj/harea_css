@@ -1,0 +1,42 @@
+body{
+    background-image: url('africc.webp');
+    background-repeat: no-repeat;
+    /*background-position: center;*/
+
+    background-size: cover;
+    background-attachment: fixed;
+
+
+}
+div{
+    border:10px solid black;
+    height:1200px;
+    width:600px;
+
+}
+
+#div1{
+    background-image: url('prizren.jpg');
+    background-size:1200px ;
+
+
+
+}
+h1{
+font-size: 60px;
+color:white;
+
+
+}
+h2{
+    font-size:20px;
+    color:azure;
+
+
+
+}
+#div2{
+    background:green url('prizren.jpg') no-repeat 100% fixed;
+
+
+}

@@ -1,0 +1,13 @@
+h1{
+    display:inline;
+    display:none;
+    /*visibility:hidden;*/
+    /*Kjo veti na sherben per ta fshehur elementin,mirepo hapesira e elementit mbetet*/
+}
+p{
+    display:inline;
+    /*display:none;*/
+}
+a{
+    display:block;
+}

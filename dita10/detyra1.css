@@ -1,0 +1,33 @@
+#div1{
+    border: 20px solid gray;
+    padding: 20px;
+    width:700px;
+    margin: auto;
+}
+.date{
+    color:rgb(132, 189, 243);
+    letter-spacing: 10px;
+    font-variant:small-caps;
+}
+.h1{
+    font-size:35px;
+    color: rgb(18, 18, 84);
+    text-transform: capitalize;
+}
+.prf1{
+    border-left:2px solid rgb(39, 62, 195)
+
+}
+.date2{
+    color:rgb(132, 189, 243);
+    letter-spacing: 10px;
+    font-variant:small-caps;
+}
+.h1{
+    font-size:35px;
+    color: rgb(18, 18, 84);
+    text-transform: capitalize;
+}
+.prg{
+    border-left:2px solid rgb(39, 62, 195)
+}
